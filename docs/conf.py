@@ -19,8 +19,8 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = 'django_cityloc_pkg'
-copyright = '2023, Max Damewood'
-author = 'Max Damewood'
+copyright = '2023, Author Name'
+author = 'Author Name'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
@@ -32,7 +32,7 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',
+    'sphinx.ext.autodocs',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
