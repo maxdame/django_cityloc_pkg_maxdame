@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'django_cityloc_pkg'
-copyright = '2023, Author Name'
-author = 'Author Name'
+project = 'django_cityloc_pkg_maxdame'
+copyright = '2023, Max Damewood'
+author = 'Max Damewood'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
